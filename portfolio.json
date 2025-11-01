@@ -1,0 +1,83 @@
+[
+  {
+    "id": "RE_MUMBAI",
+    "type": "Real Estate",
+    "name": "2BHK Flat, Andheri, Mumbai",
+    "details": "1 unit @ ₹1,50,00,000",
+    "current_value": 15000000,
+    "priority_score": 0,
+    "suggestion": "None"
+  },
+  {
+    "id": "RE_MANGLORE",
+    "type": "Real Estate",
+    "name": "Commercial Shop, Manglore",
+    "details": "1 unit @ ₹80,00,000",
+    "current_value": 8000000,
+    "priority_score": 0,
+    "suggestion": "None"
+  },
+  {
+    "id": "GOLD_BARS",
+    "type": "Commodity",
+    "name": "Physical Gold",
+    "details": "500 grams @ ₹7,200/gram",
+    "current_value": 3600000,
+    "priority_score": 0,
+    "suggestion": "None"
+  },
+  {
+    "id": "CRYPTO_BTC",
+    "type": "Cryptocurrency",
+    "name": "Bitcoin",
+    "details": "0.4 BTC @ ₹55,00,000/BTC",
+    "current_value": 2200000,
+    "priority_score": 0,
+    "suggestion": "None"
+  },
+  {
+    "id": "SILVER_BARS",
+    "type": "Commodity",
+    "name": "Physical Silver",
+    "details": "20 kg @ ₹90,000/kg",
+    "current_value": 1800000,
+    "priority_score": 0,
+    "suggestion": "None"
+  },
+  {
+    "id": "CRYPTO_ETH",
+    "type": "Cryptocurrency",
+    "name": "Ethereum",
+    "details": "3 ETH @ ₹3,00,000/ETH",
+    "current_value": 900000,
+    "priority_score": 0,
+    "suggestion": "None"
+  },
+  {
+    "id": "STOCK_RIL",
+    "type": "Stock",
+    "name": "Reliance Industries Ltd.",
+    "details": "300 shares @ ₹2,900/share",
+    "current_value": 870000,
+    "priority_score": 0,
+    "suggestion": "None"
+  },
+  {
+    "id": "STOCK_TCS",
+    "type": "Stock",
+    "name": "Tata Consultancy Services",
+    "details": "200 shares @ ₹3,800/share",
+    "current_value": 760000,
+    "priority_score": 0,
+    "suggestion": "None"
+  },
+  {
+    "id": "MF_NIFTY50",
+    "type": "Mutual Fund",
+    "name": "UTI Nifty 50 Index Fund",
+    "details": "3,000 units @ ₹150/NAV",
+    "current_value": 450000,
+    "priority_score": 0,
+    "suggestion": "None"
+  }
+]

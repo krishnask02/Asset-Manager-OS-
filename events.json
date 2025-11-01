@@ -1,0 +1,142 @@
+[
+  {
+    "id": "STOCK_TCS",
+    "suggestion": "TCS wins major AI contract in Europe worth $500M.",
+    "priority_bump": 50
+  },
+  {
+    "id": "RE_MANGLORE",
+    "suggestion": "New international airport confirmed for Manglore, construction to begin Q1.",
+    "priority_bump": 75
+  },
+  {
+    "id": "CRYPTO_BTC",
+    "suggestion": "Major financial institution announces BTC adoption for client funds.",
+    "priority_bump": 40
+  },
+  {
+    "id": "RE_MUMBAI",
+    "suggestion": "Mumbai property registration tax increased by 1%.",
+    "priority_bump": -5
+  },
+  {
+    "id": "STOCK_RIL",
+    "suggestion": "Reliance announces new green hydrogen plant in Jamnagar.",
+    "priority_bump": 45
+  },
+  {
+    "id": "GOLD_BARS",
+    "suggestion": "Global market uncertainty, flight to safety increases gold demand.",
+    "priority_bump": 20
+  },
+  {
+    "id": "MF_NIFTY50",
+    "suggestion": "Market correction, general downturn across Nifty 50 stocks.",
+    "priority_bump": -10
+  },
+  {
+    "id": "CRYPTO_ETH",
+    "suggestion": "Ethereum network completes major upgrade, 'gas fees' reduced.",
+    "priority_bump": 35
+  },
+  {
+    "id": "SILVER_BARS",
+    "suggestion": "New industrial application for silver in solar panels boosts demand.",
+    "priority_bump": 25
+  },
+  {
+    "id": "STOCK_TCS",
+    "suggestion": "Report shows increased employee attrition rate at TCS.",
+    "priority_bump": -15
+  },
+  {
+    "id": "RE_MUMBAI",
+    "suggestion": "New metro line opens near Andheri property, boosting connectivity.",
+    "priority_bump": 30
+  },
+  {
+    "id": "STOCK_RIL",
+    "suggestion": "Reliance Retail posts record quarterly profits.",
+    "priority_bump": 20
+  },
+  {
+    "id": "CRYPTO_BTC",
+    "suggestion": "Regulatory concerns resurface in major economy.",
+    "priority_bump": -25
+  },
+  {
+    "id": "MF_NIFTY50",
+    "suggestion": "SEBI announces new, favorable regulations for mutual funds.",
+    "priority_bump": 10
+  },
+  {
+    "id": "RE_MANGLORE",
+    "suggestion": "Environmental review delays airport project by 6 months.",
+    "priority_bump": -20
+  },
+  {
+    "id": "GOLD_BARS",
+    "suggestion": "Strong US dollar puts downward pressure on gold prices.",
+    "priority_bump": -5
+  },
+  {
+    "id": "STOCK_RIL",
+    "suggestion": "Reliance Jio crosses 500 million subscriber milestone.",
+    "priority_bump": 25
+  },
+  {
+    "id": "CRYPTO_ETH",
+    "suggestion": "Security flaw discovered in a major Ethereum-based DeFi protocol.",
+    "priority_bump": -20
+  },
+  {
+    "id": "MF_NIFTY50",
+    "suggestion": "RBI interest rate hike is higher than expected.",
+    "priority_bump": -15
+  },
+  {
+    "id": "STOCK_TCS",
+    "suggestion": "TCS announces ₹18 per share dividend.",
+    "priority_bump": 10
+  },
+  {
+    "id": "SILVER_BARS",
+    "suggestion": "Large silver deposit found, potential increase in future supply.",
+    "priority_bump": -10
+  },
+  {
+    "id": "CRYPTO_BTC",
+    "suggestion": "Bitcoin 'Halving' event approaching, supply issuance to be cut.",
+    "priority_bump": 30
+  },
+  {
+    "id": "RE_MUMBAI",
+    "suggestion": "Coastal road project phase 2 completed, reduces travel time to Andheri.",
+    "priority_bump": 15
+  },
+  {
+    "id": "GOLD_BARS",
+    "suggestion": "Central banks continue to buy gold, increasing reserves.",
+    "priority_bump": 15
+  },
+  {
+    "id": "MF_NIFTY50",
+    "suggestion": "Foreign Institutional Investors (FIIs) show strong buying in Indian market.",
+    "priority_bump": 20
+  },
+  {
+    "id": "STOCK_RIL",
+    "suggestion": "Global oil prices fall, potentially lowering margins for O2C business.",
+    "priority_bump": -10
+  },
+  {
+    "id": "CRYPTO_ETH",
+    "suggestion": "Celebrity endorsement leads to spike in NFT sales on Ethereum.",
+    "priority_bump": 5
+  },
+  {
+    "id": "RE_MANGLORE",
+    "suggestion": "Major IT company announces new campus in Manglore, 5000 new jobs.",
+    "priority_bump": 80
+  }
+]
